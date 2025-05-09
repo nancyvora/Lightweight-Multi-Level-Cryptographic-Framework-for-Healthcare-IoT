@@ -28,4 +28,9 @@ Resource Utilization: Operates efficiently within devices having <4KB RAM and <6
 
 Energy Efficiency: Maintains low energy consumption, preserving battery life in wearable and implantable medical devices.
 
-
+# Core Cryptographic Components 
+PRESENT Cipher
+ASCON Cipher
+Key Management System : LEAloT-Inspired Key Generation, Elliptic Curve Cryptography (ECC).
+Role-Based Encryption
+Token-Based Authentication: JWT-SHA-3
