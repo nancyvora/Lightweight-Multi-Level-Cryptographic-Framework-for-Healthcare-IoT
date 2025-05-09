@@ -1,0 +1,24 @@
+
+User 1
+- Name: Alice
+- Password: alice123
+- Role: Doctor
+- Department: Cardiology
+
+User 2
+- Name: Bob
+- Password: bob123
+- Role: Doctor
+- Department: Pulmonology
+
+User 3
+- Name: Carol
+- Password: carol123
+- Role: Doctor
+- Department: Neurology
+
+User 4
+- Name: Dave
+- Password: dave123
+- Role: Nurse
+- Department: Cardiology
